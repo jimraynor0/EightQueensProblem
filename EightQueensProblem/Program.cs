@@ -16,8 +16,8 @@ namespace EightQueensProblem
             {
                 Console.WriteLine("请输入棋盘的尺寸数字");
                 int problemSize = Convert.ToInt32(Console.ReadLine());
-                EightQueensProblem eqp = new EightQueensProblem(problemSize);
-                eqp.PrintSolutions(eqp.solutions);
+                var engine = new EightQueensProblem.EightQueensProblem(problemSize);
+                PrintSolutions(engine.findSolutions(), problemSize);
             }
         }
     }
