@@ -1,0 +1,7 @@
+D:\Users\kevin\source\repos\EightQueensProblem\EightQueensProblem\obj\Debug\EightQueensProblem.csprojAssemblyReference.cache
+D:\Users\kevin\source\repos\EightQueensProblem\EightQueensProblem\obj\Debug\EightQueensProblem.csproj.CoreCompileInputs.cache
+D:\Users\kevin\source\repos\EightQueensProblem\EightQueensProblem\bin\Debug\EightQueensProblem.exe.config
+D:\Users\kevin\source\repos\EightQueensProblem\EightQueensProblem\bin\Debug\EightQueensProblem.exe
+D:\Users\kevin\source\repos\EightQueensProblem\EightQueensProblem\bin\Debug\EightQueensProblem.pdb
+D:\Users\kevin\source\repos\EightQueensProblem\EightQueensProblem\obj\Debug\EightQueensProblem.exe
+D:\Users\kevin\source\repos\EightQueensProblem\EightQueensProblem\obj\Debug\EightQueensProblem.pdb
